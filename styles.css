@@ -247,7 +247,6 @@ a {
     line-height: 1.5;
 }
 
-/* Responsive adjustments */
 @media (max-width: 600px) {
     .experience-header {
         flex-direction: column;
